@@ -1,0 +1,8 @@
+[TRACE] 2020-05-16 03:23:07.304 [main] log4jdemo - This is a trace message
+[INFO ] 2020-05-16 03:23:07.308 [main] log4jdemo - this is a message to verify
+[ERROR] 2020-05-16 03:23:07.309 [main] log4jdemo - this an error message
+[WARN ] 2020-05-16 03:23:07.309 [main] log4jdemo - Warning message
+[TRACE] 2020-05-16 04:38:43.174 [main] log4jdemo - This is a trace message
+[INFO ] 2020-05-16 04:38:43.177 [main] log4jdemo - this is a message to verify
+[ERROR] 2020-05-16 04:38:43.177 [main] log4jdemo - this an error message
+[WARN ] 2020-05-16 04:38:43.178 [main] log4jdemo - Warning message
